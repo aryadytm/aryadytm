@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rydytm
 - 👀 I’m interested in programming, AI, and UI/UX
-- 🌱 I’m currently learning Java, Kotlin, and Python (Maybe Javascript with Node.js in the future)
+- 🌱 I’m currently learning Java (Maybe Kotlin, Python, and Javascript + Node.js in the future)
 - 💞️ I’m looking to collaborate on college and group projects
 - 📫 How to reach me (Linkedin): https://www.linkedin.com/
 
