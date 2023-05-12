@@ -12,9 +12,9 @@ I'm a Business Information Technology student at BINUS University with a passion
 
 ## 🚀 Projects
 
-- **ChatMagic AI** - An artificial intelligence chatbot that works like OpenAI ChatGPT but runs locally on mobile phones without an internet connection. (Dec 2022) [View Project](https://bit.ly/bb-chatmagicai)
-- **AIE Studio - AI for Everyone** - A software as a service (SaaS) platform that provides AI services to everyone. (Feb 2022 - Jun 2022) [View Project](https://bit.ly/aie-studio)
-- **Neurality - Brain Training App** - An Android-based brain training app that consists of multiple brain training games that involve calculation, reflexes, and verbal fluency. (Mar 2019 - Jul 2020) [View Project](https://bit.ly/bb-neurality)
+- **ChatMagic AI** - An artificial intelligence chatbot that works like OpenAI ChatGPT but runs locally on mobile phones without an internet connection. (Dec 2022) [View Project](https://bit.ly/aa-chatmagicai)
+- **AIE Studio - AI for Everyone** - A software as a service (SaaS) platform that provides AI services to everyone. (Feb 2022 - Jun 2022) [View Project](https://bit.ly/aa-aiestudio)
+- **Neurality - Brain Training App** - An Android-based brain training app that consists of multiple brain training games that involve calculation, reflexes, and verbal fluency. (Mar 2019 - Jul 2020) [View Project](https://bit.ly/aa-neurality)
 
 ## 🎓 Education
 
@@ -39,6 +39,7 @@ I'm a Business Information Technology student at BINUS University with a passion
 
 - [LinkedIn](https://www.linkedin.com/in/arya-adyatma/)
 - [GitHub](https://github.com/aryadytm)
+
 <!---
 aryadytm/aryadytm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
