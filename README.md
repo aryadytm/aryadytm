@@ -12,6 +12,7 @@ I'm a Business Information Technology student at BINUS University with a passion
 
 ## 🚀 Projects
 
+- **Arya Adyatma Portfolio Website** - Next.js web app that render posts from Notion, based on [this amazing open source project](https://github.com/transitive-bullshit/nextjs-notion-starter-kit). (May 2023) [View Project](https://bit.ly/arya-adyatma-vercel) 
 - **ChatMagic AI** - An artificial intelligence chatbot that works like OpenAI ChatGPT but runs locally on mobile phones without an internet connection. (Dec 2022) [View Project](https://bit.ly/aa-chatmagicai)
 - **AIE Studio - AI for Everyone** - A software as a service (SaaS) platform that provides AI services to everyone. (Feb 2022 - Jun 2022) [View Project](https://bit.ly/aa-aiestudio)
 - **Neurality - Brain Training App** - An Android-based brain training app that consists of multiple brain training games that involve calculation, reflexes, and verbal fluency. (Mar 2019 - Jul 2020) [View Project](https://bit.ly/aa-neurality)
