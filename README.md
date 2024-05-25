@@ -24,8 +24,9 @@ I'm a Business Information Technology student at BINUS University with a passion
 
 ## 🏆 Honors & Awards
 
-- **Grand Finalist** of School of Computer Science Hackathon 2023 in BINUS University, creating the AI Career Consultant app
-- **Appreciation** from School of Information System 2022 for **great academic achievement** in BINUS University
+- **Scholarship Awardee** of Apple Developer Academy, one of 200 accepted participants from a total of 17.700 applicants (Top ~1.2%).
+- **Grand Finalist** of School of Computer Science Hackathon 2023 in BINUS University, creating the AI Career Consultant app.
+- **Appreciation** from School of Information System 2022 for **great academic achievement** in BINUS University.
 
 ## 🔧 Skills
 
