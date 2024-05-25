@@ -20,11 +20,12 @@ I'm a Business Information Technology student at BINUS University with a passion
 
 ## 🎓 Education
 
-- **Bachelor's degree in Business Information Technology** from BINUS University (2021 - 2025)
+- **Bachelor's degree in Computer Science** from BINUS University (2021 - 2025)
 
 ## 🏆 Honors & Awards
 
-- Appreciation from School of Information System 2022 for great academic achievement in BINUS University
+- **Grand Finalist** of School of Computer Science Hackathon 2023 in BINUS University, creating the AI Career Consultant app
+- **Appreciation** from School of Information System 2022 for **great academic achievement** in BINUS University
 
 ## 🔧 Skills
 
