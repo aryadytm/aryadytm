@@ -6,7 +6,8 @@ I'm a Business Information Technology student at BINUS University with a passion
 
 ## 💼 Experience
 
-- **Android Developer** at ChatMagic AI (Dec 2022 - Present)
+- **iOS Developer** at Apple Developer Academy (Feb 2024 - Dec 2024)
+- **Android Developer** at ChatMagic AI (Dec 2022 - Apr 2023)
 - **Full Stack Developer** at AIE Studio (Feb 2022 - Jun 2022)
 - **Android Developer** at Neurality (Nov 2019 - Jul 2020)
 
