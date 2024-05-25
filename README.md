@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Business Information Technology student at BINUS University with a passion for programming and technology. I'm an AI enthusiast and have honed my skills in Python, Java, JavaScript, Kotlin, Android development, and machine learning. I'm excited to continue growing my skills and knowledge in the field of technology and am open to new opportunities in software development or related fields.
+I'm an iOS Developer @ Apple Developer Academy. I'm an AI enthusiast and have honed my skills in Python, Java, JavaScript, Kotlin, Android development, and machine learning. I'm excited to continue growing my skills and knowledge in the field of technology and am open to new opportunities in software development or related fields.
 
 ## 💼 Experience
 
