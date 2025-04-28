@@ -1,4 +1,4 @@
-# Hi there, I'm Arya Adyatma 👋
+# Hi there, I'm Arya 👋
 
 ## 👨‍💻 About Me
 
